@@ -1,0 +1,9 @@
+hybrid :
+         Average Precision: 0.009004503317848413
+         Average Recall: 0.027114453080296717
+collaborative:
+         Average Precision: 0.026990964488337887
+         Average Recall: 0.08094974404274556
+content tf/idf:
+	 Average Precision: 0.026023419740584586
+	 Average Recall: 0.08342817720673949

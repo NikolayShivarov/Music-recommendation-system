@@ -1,0 +1,11 @@
+Link to the dataset: 
+https://www.kaggle.com/datasets/undefinenull/million-song-dataset-spotify-lastfm
+
+Link to the hybrid:
+https://www.kaggle.com/code/nikolayshivarov2000/hybrid-usic-recommendation-system
+
+Link to the collaborative:
+https://www.kaggle.com/code/nikolayshivarov2000/collaborative-music-recommender
+
+Link to the Tf/Idf:
+https://www.kaggle.com/code/nikolayshivarov2000/tf-idf-music-recommender/edit
